@@ -129,7 +129,7 @@ require (
 	github.com/gophercloud/gophercloud v0.16.0
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.4.2
-	github.com/gosnmp/gosnmp v1.33.0
+	github.com/gosnmp/gosnmp v1.35.0
 	github.com/grid-x/modbus v0.0.0-20210224155242-c4a3d042e99b
 	github.com/grid-x/serial v0.0.0-20191104121038-e24bc9bf6f08 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0 // indirect
@@ -244,7 +244,7 @@ require (
 	github.com/snowflakedb/gosnowflake v1.6.2
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
 	github.com/testcontainers/testcontainers-go v0.11.1
 	github.com/tidwall/gjson v1.10.2
